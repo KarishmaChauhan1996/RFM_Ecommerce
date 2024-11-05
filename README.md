@@ -1,7 +1,5 @@
 #  Segmentation of Ecommerce brand customers using RFM, KMeans and Predicting Customer Lifetime Value
 
-# K-Means Clustering-Customer Segmentation
-
 In this project we have used multiple approaches for clustering to segment the cusomers of Ecommerce company into distinct groups based on specified features. The goal is to group data points so that points within a group are more similar to each which basically shows the types of customers.
 
 **Table of Contents**
@@ -23,7 +21,7 @@ Results and Interpretation
 
 **Project Overview**
 
-This project applies the KMeans clustering algorithm to group data points based on certain attributes. Clustering is useful in applications such as customer segmentation, image compression, and anomaly detection. In this project, we utilize KMeans to cluster segment the customers, which may help in developing targeted strategies or further predictive analytics.
+This project applies multiple  KMeans clustering algorithm to group data points based on certain attributes. Clustering is useful in applications such as customer segmentation, image compression, and anomaly detection. In this project, we utilize KMeans to cluster segment the customers, which may help in developing targeted strategies or further predictive analytics.
 
 **Dataset**
 
@@ -75,11 +73,6 @@ Ensure you have the following dependencies installed:
 
 
 
-
-
-**Feature Selection**
-
-Choosing relevant features for clustering using Principal Component Analysis
 
 **KMeans Clustering Process**
 
