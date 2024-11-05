@@ -58,21 +58,9 @@ Ensure you have the following dependencies installed:
 
 **Heuristic segmentaion (Value based, RFM-Recency, Frequency, Monetary)**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Value-based segmentation- recency, Frequency, Monetary
+    - Based on Invoice value we divided customers into segments
+    
 
 **KMeans Clustering Process**
 
@@ -92,17 +80,26 @@ random_state: Ensures reproducibility.
 
 After fitting, we plotted the clusters using PCA (Principal Component Analysis) to reduce the data to two dimensions for visualization. This helps in understanding how well-separated the clusters are.
 
-**Model Evaluation**
+**Apply K-Means with the selected number of clusters (4)**
 
-Several metrics were used to assess the clustering performance:
+**Adding descriptive labels for each cluster based on the mean values**
+   -Premium
+   -Gold
+   -Silver
 
-Inertia: Measures within-cluster variance; lower values indicate tighter clusters.
+**Insights and Interpretation**
 
-Silhouette Score: Measures how similar an object is to its own cluster compared to other clusters; higher values indicate well-defined clusters.
+* Defining marketing strategies based on cluster profiles
 
-Cluster Centers: Analyzing the cluster centroids to understand the main characteristics of each cluster.
+**Predicting Customer Lifetime Value (Low Value/Medium Value/High Value)**
 
-**Predicting segment for new data**
+**Cross Selling( Which products are selling together)**
+
+**Predicting Next Purchase Day(How soon each customer can visit the store).**
+
+
+
+
 
 
 
