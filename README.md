@@ -1,4 +1,4 @@
-#  Segmentation Customers using RFM, KMeans and Predicting Customer Lifetime Value
+# Customers Segmentation using RFM, KMeans and Predicting Customer Lifetime Value
 
 In this project we have used multiple approaches for clustering to segment the cusomers of Ecommerce company into distinct groups based on specified features. The goal is to group data points so that points within a group are more similar to each which basically shows the types of customers.
 
