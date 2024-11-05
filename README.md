@@ -89,13 +89,16 @@ After fitting, we plotted the clusters using PCA (Principal Component Analysis) 
 
 **Insights and Interpretation**
 
-* Defining marketing strategies based on cluster profiles
+* Defining marketing strategies based on customers profile
 
 **Predicting Customer Lifetime Value (Low Value/Medium Value/High Value)**
 
 **Cross Selling( Which products are selling together)**
 
 **Predicting Next Purchase Day(How soon each customer can visit the store).**
+
+**Cohort Analysis**
+
 
 
 
